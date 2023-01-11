@@ -1,4 +1,4 @@
-def sum (a,b)
+def  newdownload(repo)
 {
-   echo "the sum of ${a} and ${b} is ${a+b}"
+   echo  git "https://github.com/intelliqittrainings/$"{repo"}
 }
